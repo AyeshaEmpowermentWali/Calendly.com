@@ -1,5 +1,0 @@
-[29-Jun-2025 18:24:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'Ayesha' for key 'users.username' in /home/customer/www/rsoa106.rehanschool.us/public_html/Calendly.com/signup.php:13
-Stack trace:
-#0 /home/customer/www/rsoa106.rehanschool.us/public_html/Calendly.com/signup.php(13): mysqli_stmt->execute()
-#1 {main}
-  thrown in /home/customer/www/rsoa106.rehanschool.us/public_html/Calendly.com/signup.php on line 13
